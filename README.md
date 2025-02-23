@@ -13,3 +13,9 @@
 ##  Programming Languages, Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,react,js,ts,html,css,tailwind,py,c,cpp,docker,idea,vscode,visualstudio,postgres,mysql,mongodb,git,github,postman,opencv)](https://skillicons.dev)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeorgeDenis/GeorgeDenis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeorgeDenis/GeorgeDenis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GeorgeDenis/GeorgeDenis/output/github-snake.svg" />
+</picture>
+
